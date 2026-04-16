@@ -11,7 +11,7 @@ The project leverages industrial-scale data to model the relationship between **
 
 ---
 
-## Project Overview
+## Overview
 
 Scrap-based steel production introduces significant variability in chemical composition, making it challenging to consistently achieve target mechanical properties. This project applies machine learning techniques to:
 
@@ -20,7 +20,6 @@ Scrap-based steel production introduces significant variability in chemical comp
 - Provide **interpretable insights** using SHAP (Shapley Additive Explanations)
 
 The dataset used is based on the work of **Guo et al. (2019)**, comprising over **63,000 industrial steel samples**.
-
 
 ## Methodology
 
